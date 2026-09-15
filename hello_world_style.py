@@ -3,7 +3,7 @@
 # Date: Sep 15th, 2026
 # This program displays a greeting and contains proper formatting
 def main():
-    print ("Hello,Ms Raffin")
+    print("Hello,Ms Raffin")
     print("Programming is cool")
 
 
